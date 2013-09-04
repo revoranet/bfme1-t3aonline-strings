@@ -3839,7 +3839,7 @@ Version:Format3
 END
 
 Version:Format2
-"Version 1.05"
+"Version 1.06"
 END
 
 Version:BuildTime
@@ -11011,7 +11011,7 @@ CONTROLBAR:EyeofSauron
 END
 
 CONTROLBAR:ToolTipEyeofSauron
-"Reveals stealthed enemies. \n +50% Damage +100% Experience +50% Armor \n Left click then right click on target"
+"Reveals stealthed enemies. \n +50% Damage +100% Experience \n Left click then right click on target"
 END
 
 CONTROLBAR:Darkness
@@ -11176,6 +11176,10 @@ END
 
 CONTROLBAR:ConstructGondorPorter
 "Gondor &Porter"
+END
+
+CONTROLBAR:ToolTipBuildGondorPorter
+"This unit enables you to send a tribute to your allies."
 END
 
 CONTROLBAR:ConstructGondorFireArrowPorter
@@ -15990,6 +15994,10 @@ Map:MAPMPAnorien
 "Anorien"
 END
 
+Map:MAPMPAmonHen
+"Amon Hen"
+END
+
 Map:MAPMPBelfalas
 "Belfalas"
 END
@@ -16062,6 +16070,10 @@ Map:MAPMPFangorn
 "Fangorn Forest"
 END
 
+Map:MAPMPFangorn2
+"Fangorn Forest II"
+END
+
 Map:MAPMPFordsofIsen
 "Fords of Isen"
 END
@@ -16080,6 +16092,10 @@ END
 
 Map:MAPMPHarondor
 "Harondor"
+END
+
+Map:MAPMPHarondor2
+"Harondor II"
 END
 
 Map:MAPMPLebennin
@@ -16108,6 +16124,10 @@ END
 
 Map:MAPMPMouthsofEntwash
 "Mouths of the Entwash"
+END
+
+Map:MAPMPMoria
+"Battle in Moria"
 END
 
 Map:MAPMPNorthernIthilien
@@ -16190,6 +16210,10 @@ Map:MAPMPAnorien/Desc
 "The northwestern territory of Gondor that forms the border between Gondor and Rohan. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 1 \n Settlements: 8 \n Lairs: Troll and Warg"
 END
 
+Map:MAPMPAmonhen/Desc
+"The hill near the Nen Hithoel known as the Seat of Seeing. \n Number of Players: 4 \n Starting Positions: Camps"
+END
+
 Map:MAPMPBelfalas/Desc
 "This territory of Gondor is formed from a large peninsula that juts out into the Bay of Belfalas. \n Number of Players: 5 \n Starting Positions: Castles \n Expansion Points: 3 \n Settlements: 13 \n Lairs: Troll and Goblin"
 END
@@ -16262,6 +16286,10 @@ Map:MAPMPFangorn/Desc
 "A dark and mysterious forest that is the home of Treebeard and the Ents. \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 10 \n Lairs: Troll and Goblin"
 END
 
+Map:MAPMPFangorn2/Desc
+"A dark and mysterious forest that is the home of Treebeard and the Ents. \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 4 \n Settlements: 10 \n Lairs: Troll and Goblin"
+END
+
 Map:MAPMPFordsofIsen/Desc
 "A crossing point of the River Isen, located near Isengard. \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Warg"
 END
@@ -16282,6 +16310,10 @@ Map:MAPMPHarondor/Desc
 "Sandy, rocky hills lying to the west of Harad and the south of Gondor. \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 8 \n Settlements: 12 \n Lairs: Warg \n Build Restrictions: No Siege Ladders or Towers"
 END
 
+Map:MAPMPHarondor2/Desc
+"Sandy, rocky hills lying to the west of Harad and the south of Gondor. \n Number of Players: 6 \n Starting Positions: Castles \n Expansion Points: 8 \n Settlements: 12 \n Lairs: Warg \n Build Restrictions: No Siege Ladders or Towers"
+END
+
 Map:MAPMPLebennin/Desc
 "This lush, green land in southern Gondor lies where the Anduin River completes its journey into the Bay of Belfalas.\nStarting Positions: Camps\nExpansion Points: 2\nSettlements: 12\nLairs: Troll, Goblin and Warg\nBuild Restrictions: No Siege Ladders or Towers"
 END
@@ -16295,7 +16327,7 @@ Map:MAPMPMirkwood/Desc
 END
 
 Map:MAPMPMirkwood2/Desc
-"A great forest to the east of the Misty Mountains. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 0 \n Settlements: 12 \n Lairs: Goblin and Warg"
+"A great forest to the east of the Misty Mountains. \n Addition: One-castle-only \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 0 \n Settlements: 12 \n Lairs: Goblin and Warg"
 END
 
 Map:MAPMPMtDoom/Desc
@@ -16308,6 +16340,10 @@ END
 
 Map:MAPMPMouthsofEntwash/Desc
 "The wet, marshy land where the Entwash River flows into the Anduin. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 6 \n Settlements: 11 \n Lairs: Warg"
+END
+
+Map:MAPMPMoria/Desc
+"An enormous underground complex, comprising a vast network of tunnels, chambers, mines and huge halls or mansions. Credits: Melkor1282 \n Number of Players: 2 \n Starting Positions: Camps \n Lairs: Goblins"
 END
 
 Map:MAPMPNorthernIthilien/Desc
@@ -16327,7 +16363,7 @@ Map:MAPMPBrownLands/Desc
 END
 
 Map:MAPMPBrownLands2/Desc
-"A rocky, desolate area that lies to the south of Mirkwood. \n Number of Players: 8 \n Starting Positions: Castles \n Settlements: 16 \n Lairs: Goblin"
+"A rocky, desolate area that lies to the south of Mirkwood. \n Addition: One-castle-only \n Number of Players: 8 \n Starting Positions: Castles \n Settlements: 16 \n Lairs: Goblin"
 END
 
 Map:MAPMPOsgiliath/Desc
