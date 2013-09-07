@@ -491,15 +491,15 @@ APT:HostGame
 END
 
 URL:LotrHome
-"http://www.eagames.com/official/lordoftherings/thebattleformiddleearth/us/home.jsp"
+"http://forums.revora.net/forum/548-the-3rd-age/"
 END
 
 URL:LotrLadder
-"http://arena.gamespy.com/bfme/"
+"http://online.the3rdage.net/"
 END
 
 URL:LotrTOS
-"http://www.ea.com/global/legal/tos.jsp"
+"http://online.the3rdage.net/"
 END
 
 GUI:ChatRoom1
@@ -14283,7 +14283,7 @@ Apt:GameLobby
 END
 
 APT:onlineRegister
-"REGISTER"
+" "
 END
 
 APT:OnlineDeleteNickname
@@ -14751,7 +14751,7 @@ APT:OnlineProfile
 END
 
 APT:OnlineEAAccountName
-"EA Account Name"
+"Revora Account Name"
 END
 
 APT:WinsNumFormat
@@ -14927,7 +14927,7 @@ APT:NicknameNoCaps
 END
 
 APT:Password
-"Password"
+"T3A:Online Password"
 END
 
 APT:GamePassword
@@ -14955,7 +14955,7 @@ APT:CreateAccount
 END
 
 APT:ServiceTerms
-"SERVICE TERMS"
+"T3A:ONLINE WEBSITE"
 END
 
 APT:LessDetail
@@ -15043,7 +15043,7 @@ APT:MatchMe
 END
 
 APT:OfficialSite
-"OFFICIAL WEB SITE"
+"SUPPORT FORUMS"
 END
 
 APT:Friends
@@ -15703,7 +15703,7 @@ APT:TermsOfService
 END
 
 APT:ESRBNotice
-"ESRB NOTICE: Game Experience May Change During Online Play"
+"T3A:Online, a community-made BFME server Check online.the3rdage.net for updates"
 END
 
 APT:Close
