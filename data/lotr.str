@@ -491,7 +491,7 @@ APT:HostGame
 END
 
 URL:LotrHome
-"http://forums.revora.net/forum/548-the-3rd-age/"
+"http://forums.revora.net/forum/2671-t3aonline-support-and-talk/"
 END
 
 URL:LotrLadder
@@ -4647,7 +4647,7 @@ TOOLTIP:OnlineShell/OnlineLogin/tooltipRememberMe
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
-"Register your account with EA. Complete this field with your new account name"
+"Register your account at Revora. Complete this field with your new account name"
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
@@ -4655,7 +4655,7 @@ TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/Register/ButtonClip
-"You must register to play online"
+"You must register at Revora to use T3A:Online"
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/DeleteNickname/Buttonclip
@@ -4663,11 +4663,11 @@ TOOLTIP:OnlineShell/OnlineLogin/Login/DeleteNickname/Buttonclip
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/ServiceTerms/ButtonClip
-""
+"Go to the T3A:Online website for news and instructions"
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/OfficialSite/ButtonClip
-""
+"Go to the T3A:Online support forums at Revora"
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/Login/buttonClip
@@ -14283,7 +14283,7 @@ Apt:GameLobby
 END
 
 APT:onlineRegister
-" "
+"REGISTER"
 END
 
 APT:OnlineDeleteNickname
@@ -14955,7 +14955,7 @@ APT:CreateAccount
 END
 
 APT:ServiceTerms
-"T3A:ONLINE WEBSITE"
+"OFFICIAL WEBSITE"
 END
 
 APT:LessDetail
@@ -15703,7 +15703,7 @@ APT:TermsOfService
 END
 
 APT:ESRBNotice
-"T3A:Online, a community-made BFME server Check online.the3rdage.net for updates"
+"T3A:Online, a community-made BFME server Check online.the3rdage.net for news & more"
 END
 
 APT:Close
